@@ -1,0 +1,19 @@
+{
+  "name": "toc-coaching",
+  "description": "Theory of Constraints AI coaching system based on Goldratt's Thinking Processes. Socratic coaching through Current Reality Trees, Evaporating Clouds, Future Reality Trees, Five Focusing Steps, and Prerequisite/Transition Trees.",
+  "version": "1.0.0",
+  "author": {
+    "name": "TOC Coaching System"
+  },
+  "keywords": [
+    "toc",
+    "theory-of-constraints",
+    "goldratt",
+    "coaching",
+    "thinking-processes",
+    "root-cause-analysis",
+    "constraint",
+    "bottleneck"
+  ],
+  "license": "MIT"
+}

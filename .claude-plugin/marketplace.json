@@ -1,0 +1,16 @@
+{
+  "name": "toc-marketplace",
+  "owner": {
+    "name": "TOC Coaching System"
+  },
+  "metadata": {
+    "description": "Theory of Constraints AI coaching plugins based on Goldratt's Thinking Processes"
+  },
+  "plugins": [
+    {
+      "name": "toc-coaching",
+      "source": "./toc-coaching",
+      "description": "Theory of Constraints AI coaching system — Socratic coaching through CRT, EC, FRT, Five Focusing Steps, and PRT/TT using the Jonah archetype from The Goal"
+    }
+  ]
+}
